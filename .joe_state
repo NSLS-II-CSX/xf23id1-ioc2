@@ -1,0 +1,36 @@
+# JOE state file v1.0
+search
+	backwards 0
+	ignore 0
+	replace 0
+	block_restrict 0
+done
+macros
+done
+files
+	"/tmp/hg-editor-FuSp9W.txt\n"
+	"/tmp/hg-editor-L3Vb8t.txt\n"
+done
+find
+done
+replace
+done
+run
+done
+build
+done
+grep
+done
+cmd
+done
+math
+done
+yank
+	"."
+	"er"
+	"wq"
+done
+file_pos
+	0 "/tmp/hg-editor-FuSp9W.txt"
+	0 "/tmp/hg-editor-L3Vb8t.txt"
+done

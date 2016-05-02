@@ -1,0 +1,7 @@
+record(calcout, "XF:23ID1-ES{FCCD}LinkOverlay") {
+	field(OUT, "XF:23ID1-ES{FCCD}Over1:1:Use CA")
+	field(INPA, "XF:23ID1-ES{FCCD}FastCCD1:EnableOutput_RBV CP")
+	field(CALC, "A==1")
+	field(OOPT, "Every Time")
+	field(DOPT, "Use CALC")
+}
